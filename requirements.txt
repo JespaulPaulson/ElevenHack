@@ -3,4 +3,6 @@ folium==0.17.0
 streamlit-folium==0.23.0
 pandas==2.2.3
 requests==2.32.3
+shapely==2.1.2
+
 
